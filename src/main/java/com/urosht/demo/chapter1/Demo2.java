@@ -1,4 +1,4 @@
-package com.urosht.demo.exercise1;
+package com.urosht.demo.chapter1;
 
 import java.util.ArrayList;
 import java.util.List;

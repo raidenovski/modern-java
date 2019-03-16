@@ -1,4 +1,4 @@
-package com.urosht.demo.exercise1;
+package com.urosht.demo.chapter1;
 
 import com.urosht.demo.utils.Apple;
 import com.urosht.demo.utils.Color;
