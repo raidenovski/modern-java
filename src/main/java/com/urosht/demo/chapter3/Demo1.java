@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class Demo1 {
 
     public static void main(String[] args) {
-        
+
         List<String> threeHighCaloricDishNames =
             ItemsUtils.getDishList()
                 .stream()
